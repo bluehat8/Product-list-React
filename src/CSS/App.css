@@ -1,0 +1,61 @@
+.portada {
+    background-image: url("https://retaildesignblog.net/wp-content/uploads/2012/01/Black-Barrett-store-Hong-Kong-05.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    
+   
+  }
+  
+  .portada h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    
+  }
+  
+  .portada p {
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+
+  .portada button {
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+  }
+
+  .btnProducts{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    color: #fff;
+  background-color: #1b78d6;
+  border-color: #343a40;
+  height: 3rem;
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
+  font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+
+
+  }
+
+  .btnProducts:hover {
+    color: #fff;
+    
+  }
